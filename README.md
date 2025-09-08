@@ -1,4 +1,4 @@
-# Jharkhand Tourism Website 🌿✨
+# Jharkhand Tourism Website 
 
 A modern, responsive tourism website showcasing the natural beauty, culture, and travel experiences of **Jharkhand, India**.  
 Built with **HTML, CSS, and JavaScript**, this project highlights destinations, itineraries, local insights, and booking features.  
