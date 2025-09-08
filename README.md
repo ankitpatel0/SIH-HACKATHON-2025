@@ -67,8 +67,8 @@ Contributions are welcome! Feel free to fork the repo and submit a pull request 
 
 ## 📧 Contact
 - **Developer:** ANKIT PATEL,
--                 SAMEER JHA,
--              AVISHA RATHAUR]  
+- **Developer:** SAMEER JHA,
+-  **Developer:** AVISHA RATHAUR  
 - **Email:** info@jharkhandtourism  
 - 🌐 **Location:** Jharkhand, India  
 
